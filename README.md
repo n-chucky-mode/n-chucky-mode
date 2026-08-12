@@ -45,4 +45,4 @@ A single-page interactive art portfolio featuring original paintings and digital
 
 ## Outside of Coding
 
-I enjoy painting, digital illustration, screen printing, photography, surfing, anime, and creating artwork inspired by Chicano and Mexican culture.
+I enjoy painting, digital illustration, screen printing, photography, anime, nature, and creating artwork inspired by Chicano and Mexican culture.

@@ -35,7 +35,7 @@ A single-page interactive art portfolio featuring original paintings and digital
 
 ## Featured Artwork
 
-![Featured artwork from Gloria Garcia Studio](images/vils_alice.jpg)
+![Featured artwork from Gloria Garcia Studio](garcia_cosa_nostra.jpg)
 
 ## Find My Work
 

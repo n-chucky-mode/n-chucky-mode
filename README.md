@@ -90,7 +90,7 @@ A single-page interactive art portfolio featuring original paintings and digital
 
 ### 🌿 Field & Feast
 A website project demonstrating HTML, CSS, layout, typography, and visual design.
-![Field and Feast preview](git_418_image.svg)
+![Field and Feast preview](ff_image.svg)
 
 🔗 [View Repository](https://github.com/n-chucky-mode/fieldandfeast)
 

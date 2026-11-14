@@ -103,10 +103,14 @@ An accessibility-focused HTML forms assignment.
 
 Currently developing projects that combine web development, UX/UI, and graphic design.
 
+
 ### 🌎 Earthquake & Tectonic Plate Tracker
+
 A senior project in progress that will explore earthquake activity and tectonic plate information.
 
 ![In Progress](https://img.shields.io/badge/Status-In_Progress-486B55?style=for-the-badge)
+
+🔗 [View Repository](https://github.com/n-chucky-mode/Earthquake-Tracker)
 
 ---
 

@@ -78,11 +78,35 @@ Prior professional certification and training.
 
 ### 🎨 Gloria Garcia Studio
 
-A single-page interactive art portfolio featuring original paintings and digital artwork.
+
+### 🎨 GIT 418 Final Project — Gloria Garcia Studio
+
+A single-page interactive art portfolio featuring original paintings and digital artwork. Built using HTML, CSS, and JavaScript, with interactive features, light/dark mode, and a contact form with validation.
+
+🔗 [View Repository](https://github.com/n-chucky-mode/GIT418-FINAL-PROJECT)
+
+
+## 🚀 Current Projects
+
+### 🌿 Field & Feast
+A website project demonstrating HTML, CSS, layout, typography, and visual design.
+
+🔗 [View Repository](https://github.com/n-chucky-mode/fieldandfeast)
+
+### ♿ Accessible Forms (GIT 414)
+An accessibility-focused HTML forms assignment.
+
+🔗 [View Repository](https://github.com/n-chucky-mode/Accesible-Forms)
+
 
 ### 💻 Work in Progress
 
 Currently developing projects that combine web development, UX/UI, and graphic design.
+
+### 🌎 Earthquake & Tectonic Plate Tracker
+A senior project in progress that will explore earthquake activity and tectonic plate information.
+
+![In Progress](https://img.shields.io/badge/Status-In_Progress-486B55?style=for-the-badge)
 
 ---
 

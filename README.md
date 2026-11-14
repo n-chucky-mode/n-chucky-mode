@@ -96,6 +96,7 @@ A website project demonstrating HTML, CSS, layout, typography, and visual design
 
 ### ♿ Accessible Forms (GIT 414)
 An accessibility-focused HTML forms assignment.
+![Accessible Form preview](af_image.png)
 
 🔗 [View Repository](https://github.com/n-chucky-mode/Accesible-Forms)
 

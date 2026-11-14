@@ -88,8 +88,6 @@ A single-page interactive art portfolio featuring original paintings and digital
 🔗 [View Repository](https://github.com/n-chucky-mode/git418_final_project)
 
 
-## 🚀 Current Projects
-
 ### 🌿 Field & Feast
 A website project demonstrating HTML, CSS, layout, typography, and visual design.
 

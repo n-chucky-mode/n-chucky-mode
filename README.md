@@ -83,7 +83,7 @@ Prior professional certification and training.
 
 A single-page interactive art portfolio featuring original paintings and digital artwork. Built using HTML, CSS, and JavaScript, with interactive features, light/dark mode, and a contact form with validation.
 
-🔗 [View Repository](https://github.com/n-chucky-mode/GIT418-FINAL-PROJECT)
+🔗 [View Repository](https://github.com/n-chucky-mode/git418_final_project)
 
 
 ## 🚀 Current Projects

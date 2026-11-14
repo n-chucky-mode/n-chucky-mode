@@ -22,16 +22,16 @@
       }
 
       .st4 {
-        fill: #fff;
-        font-family: SourceSans3-SemiboldIt, 'Source Sans 3';
-        font-size: 18px;
-        font-style: italic;
-        font-weight: 600;
+        font-family: OswaldHeavy-Regular, 'Oswald Heavy';
+        font-size: 47.84px;
       }
 
       .st5 {
-        font-family: OswaldHeavy-Regular, 'Oswald Heavy';
-        font-size: 47.84px;
+        fill: #fff;
+        font-family: SourceSans3-SemiboldIt, 'Source Sans 3';
+        font-size: 15px;
+        font-style: italic;
+        font-weight: 600;
       }
 
       .st2 {
@@ -52,13 +52,13 @@
     <g class="st1">
       <text class="st2" transform="translate(131.44 96.28)"><tspan x="0" y="0">Gloria Garcia</tspan></text>
     </g>
-    <text class="st4" transform="translate(154 134.71)"><tspan x="0" y="0">DATABASE-DRIVEN FULL-STACK DEVELOPMENT</tspan></text>
+    <text class="st5" transform="translate(139 123.59)"><tspan x="0" y="0">DATABASE-DRIVEN FULL-STACK DEVELOPMENT</tspan></text>
   </g>
   <g id="Layer_3">
     <g>
       <circle class="st3" cx="64.88" cy="70.94" r="54.94"/>
-      <text class="st5" transform="translate(35.36 68.95)"><tspan x="0" y="0">G</tspan></text>
-      <text class="st5" transform="translate(60.08 107.96)"><tspan x="0" y="0">G</tspan></text>
+      <text class="st4" transform="translate(35.36 68.95)"><tspan x="0" y="0">G</tspan></text>
+      <text class="st4" transform="translate(60.08 107.96)"><tspan x="0" y="0">G</tspan></text>
     </g>
   </g>
 </svg>

@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
   <img src="branding_headline.svg" alt="Gloria Garcia Branding" width="800">
 </p>
 

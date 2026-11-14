@@ -79,8 +79,6 @@ Prior professional certification and training.
 
 ## 🚀 Current Projects
 
-### 🎨 Gloria Garcia Studio
-
 
 ### 🎨 GIT 418 Final Project — Gloria Garcia Studio
 

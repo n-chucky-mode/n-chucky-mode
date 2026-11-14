@@ -1,7 +1,7 @@
 Hi, I'm Gloria Garcia! I'm a Graphic Information Technology student at Arizona State University with a focus on Full-Stack Web Development. I enjoy creating websites and digital experiences that bring together coding, functionality, and visual design.
 My GitHub profile is a place to share my programming coursework, web projects, and progress as I continue developing my technical skills.
 
-##About Me
+## About Me
 
 I'm a self-taught artist and a student who enjoys both the creative and technical sides of technology. My background includes graphic design, web development, and hands-on experience helping people use technology.
 I am interested in front-end development, JavaScript, databases, and data analytics. I enjoy working through problems, learning new tools, and building projects that are useful as well as visually organized.

@@ -103,9 +103,6 @@ An accessibility-focused HTML forms assignment.
 
 ### 💻 Work in Progress
 
-Currently developing projects that combine web development, UX/UI, and graphic design.
-
-
 ### 🌎 Earthquake & Tectonic Plate Tracker
 
 A senior project in progress that will explore earthquake activity and tectonic plate information.

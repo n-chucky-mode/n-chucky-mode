@@ -83,6 +83,7 @@ Prior professional certification and training.
 ### 🎨 GIT 418 Final Project — Gloria Garcia Studio
 
 A single-page interactive art portfolio featuring original paintings and digital artwork. Built using HTML, CSS, and JavaScript, with interactive features, light/dark mode, and a contact form with validation.
+![Gloria Garcia Studio preview](git_418_image.svg)
 
 🔗 [View Repository](https://github.com/n-chucky-mode/git418_final_project)
 

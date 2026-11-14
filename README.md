@@ -1,7 +1,8 @@
 
 # 👋 Hi, I'm Gloria Garcia!
 
-I'm a Graphic Information Technology student at Arizona State University with a focus on Full-Stack Web Development. I enjoy creating websites and digital experiences that bring together coding, functionality, and visual design.
+Database-focused full-stack developer with approximately two years of equivalent academic and project experience, combining structured data,
+development, and visual design to build clear, effective, user-focused digital solutions.
 
 My GitHub profile is a place to share my programming coursework, web projects, and progress as I continue developing my technical skills.
 

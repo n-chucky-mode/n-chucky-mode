@@ -15,7 +15,7 @@ Design: Adobe Photoshop, Adobe Illustrator, Adobe InDesign.
 
 Additional experience: data analysis and visualization through ASU's Data Analytics Global Career Accelerator.
 
-##Education
+## Education
 Arizona State University - Graphic Information Technology, with a focus on Full-Stack Web Development.
 Coursework and projects have involved web development, JavaScript, accessibility, UX/UI design, and project management.
 Associate of Arts in Mathematics and Sciences.

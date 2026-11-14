@@ -1,6 +1,6 @@
 
-<p align="left">
-  <img src="branding_headline.svg" alt="Gloria Garcia Branding" width="100%">
+<p align="center">
+  <img src="branding_horizontal.svg" alt="Gloria Garcia Branding" width="100%">
 </p>
 
 Database-focused full-stack developer with approximately two years of equivalent academic and project experience, combining structured data,

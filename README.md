@@ -1,4 +1,4 @@
-
+<link href="https://fonts.googleapis.com/css2?family=Oswald&family=Source+Sans+3:ital,wght@0,400;1,600&display=swap" rel="stylesheet">
 <p align="center">
   <img src="Horizontal RGB.svg" alt="Gloria Garcia Branding" width="600">
 </p>

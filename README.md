@@ -126,6 +126,8 @@ A senior project in progress that will explore earthquake activity and tectonic 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-486B55?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gloria-garcia-089292325)
 [![CodePen](https://img.shields.io/badge/CodePen-486B55?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/your-work)
 
+[![Adobe Portfolio](https://img.shields.io/badge/Adobe_Portfolio-486B55?style=for-the-badge&logo=adobe&logoColor=white)](https://igloria1056bde8.myportfolio.com)
+
 ---
 
 ## 🌙 Outside of Coding
